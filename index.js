@@ -33,10 +33,6 @@ Example 4
  Note: your comments, in addition to your code are also evaluated
 */
 
-// This code uses Bubble Sort Algorithm to get
-// the best possible in time complexity is O(n)
-// and the worst possibility in space complexity is O(1)
-
 // input value initialization
 let numbers = [2, 7, 11, 2];
 let target = 9;
@@ -65,4 +61,6 @@ const findIndices = () => {
   return null;
 };
 
-console.log(findIndices());
+// This code uses Bubble Sort Algorithm to get
+// the best possible in time complexity is O(n)
+// and the worst possibility in space complexity is O(1)
